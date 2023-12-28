@@ -202,7 +202,7 @@ ul{
 }
 @media (max-width:700px){
     .main-nav ul.main-menu{
-        display: none;
+        display: block;
         position: absolute;
         top: 0;
         left: 0;
